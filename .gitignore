@@ -14,3 +14,11 @@ credentials.*
 # Node.js
 node_modules/
 package-lock.json
+
+# 多 agent 本地設定（v2 架構補充）
+.codex/
+.gemini/
+.DS_Store
+.env.local
+__pycache__/
+*.pyc
